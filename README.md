@@ -3,7 +3,7 @@
 markoText is a Python-based story generator that leverages a Bag of Words Markov Chain model to create new text based on an input story or text corpus. This program generates new narratives by predicting the next word in a sequence based on the words that came before it. The Markov Chain model is trained on an input text file, learning the statistical probabilities of transitions between words. By using this trained model, the program can generate new and unique text that mimics the style and structure of the original input.
 
 <div>
-  <img src="./library.png" alt="Preview" style="width: 100%;">
+  <img src="./library.png" alt="Preview" style="width: 48%;">
 </div>
 
 ## Features
@@ -54,6 +54,10 @@ enter number of words to generate: 128
 THE GAME WAS IN ALL WAYS AS EXEMPLARY MEMBERS OF THE SOCIETY OF FREEMEN THE YOUNG MANS RETURN AND OF A MAID RUSHED ACROSS THE GLADE HOLMES AND NOW DR STERNDALE HOW DO YOU OBSERVE ANYTHING VERY PECULIAR FELLOW AND ALL THE OTHER LITTLE WEAKNESSES ON WHICH YOU HAVE SO HOMELY A THING AS A GENTLEMAN AT BAKER STREET BUT I SAW THE SPOT WHERE THE TREASURE IS HIDDEN INAT THIS INSTANT WHAT THE RASCAL HAD COPIED THE PAPER IN A LISTLESS WAY BUT I SAW AN ILLDRESSED VAGABOND IN THE LANE WHERE HE HAD GONE BY AND ALL WAS SAFE THREW OFF HIS GLASS I CAME DOWN TO BREAKFAST IN THE ROOM IN EACH CASE CAUGHT MY EYE IN SLEEP SINCE I DID AS HE WOULD DO BETTER TO BE FRANK WITH ME IF I LIGHT MY FIRST THOUGHT WAS THAT I DESIRED TO ACCOMPLISH MY PURPOSE FOR IN MY DESPAIR AND DISAPPOINTMENT AFTER A FEW MONTHS THEY EXACTLY FITTED THE TRACKS I MIGHT IT SHOULD BE STOPPED YOU MUST SPEAK OR I SHOULD HAVE BEEN EXPOSED AND DRAGGED WITH MY KNOWLEDGE THAT I KILLED BLACK PETER AND WHEN DID YOU FIND NOTHING BETTER TO TAKE NO CHANCES OF MISSING HIS MAN THE SAME THOUGHT HAD CROSSED THE LAWN THE LAWN VERY CAREFULLY FOR A MOMENT I FOUND MYSELF WEARY AND YET WAKEFUL TOSSING RESTLESSLY FROM SIDE TO SIDE IN A CHEMICAL PIPETTE NOW I KNEW THAT I HAD TAKEN OVER ANOTHER PROFESSION BUT SHE WOULDNT TELL I DARE SAY IT BEARS EVERY MARK OF REFINEMENT AND 
 (venv) kanavgoyal@MacBook-Pro src % 
 ```
+
+## Dataset
+
+The sample text used for training in markoText is derived from the Sherlock Holmes series by Sir Arthur Conan Doyle. These classic works, which are available in the public domain, provide a rich and diverse corpus ideal for text-based experimentation. For access to the complete collection of Sherlock Holmes stories, visit [The Complete Sherlock Holmes](https://sherlock-holm.es/), a comprehensive resource for fans and researchers of Doyle's legendary detective series.
 
 ## Conclusion
 
