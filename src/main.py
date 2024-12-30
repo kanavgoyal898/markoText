@@ -36,6 +36,8 @@ def make_markov_model(cleaned_data, n_gram=1):
     for i in range(len(cleaned_data)-n_gram-1):
         curr_state, next_state = '', ''
         for j in range(n_gram):
+            if i+j+n_gram >= len(cleaned_data):
+                break
             curr_state += cleaned_data[i+j] + ' '
             next_state += cleaned_data[i+j+n_gram] + ' '
 
