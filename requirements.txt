@@ -2,4 +2,3 @@ jupyterlab
 matplotlib
 numpy
 pandas
-torch
