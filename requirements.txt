@@ -1,4 +1,1 @@
 jupyterlab
-matplotlib
-numpy
-pandas
